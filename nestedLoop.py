@@ -32,4 +32,3 @@ for a in range(0,4):
         if i%x==0:
             print '''
 
-print("yes") if a==0 else print("")
