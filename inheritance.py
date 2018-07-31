@@ -15,4 +15,4 @@ class dog(animal):
 
 class cat(animal):
     def cat_eat(self):
-        print('{} eating food'.format(self.name));
+        print('{} eating food'.format(self.name)
